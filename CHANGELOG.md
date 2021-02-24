@@ -8,7 +8,7 @@
   - New repository file hierarchy.
   - New magazine option, UNDERSIZE for gravity drop.
   - Improved tolerances on many parts.
-  - changes to recommended print orientation for SLIDE_REAR and TRIGGER.
+  - Changes to recommended print orientation for SLIDE_REAR and TRIGGER.
 
 2/05/2021 [1.0 Beta] launch.
   - Beta launch, all files posted. 
