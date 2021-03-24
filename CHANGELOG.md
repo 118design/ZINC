@@ -1,5 +1,11 @@
 # ZINC Changelog
 
+3/24/2021 [1.2 Beta] update. 
+  - FRAME_TOP_COMPACT variant added. 
+  - Dowel pins now used to align handle to frame. 
+  - 2 size variants for PLUNGER added. 
+  - Tolerance changes to several parts. 
+  - Added 2-piece trigger files
 
 2/22/2021 [1.1 Beta] update. 
   - TOLERANCE_GAUGE added. 
