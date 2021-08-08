@@ -1,5 +1,8 @@
 # ZINC Changelog
 
+8/8/2021 [2.0] update. 
+    - New files, guides, posted. 
+
 3/24/2021 [1.2 Beta] update. 
   - FRAME_TOP_COMPACT variant added. 
   - Dowel pins now used to align handle to frame. 
