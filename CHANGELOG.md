@@ -1,5 +1,8 @@
 # ZINC Changelog
 
+8/12/2021
+    - Assembly guide posted
+
 8/11/2021
     - 2.0 Magazine posted
     - Magazine release updated
